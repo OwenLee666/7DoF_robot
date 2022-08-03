@@ -8,6 +8,10 @@
 * ...
 
 ---
+## 配套内容
+* 详解博客：https://blog.csdn.net/qq_37219127/article/details/126120084?spm=1001.2014.3001.5501
+* 仿真视频：https://www.bilibili.com/video/BV1qS4y1x7PZ?spm_id_from=333.999.list.card_archive.click&vd_source=240689d86a403b4d5d22137f38d4d71e
+
 ## 目录结构
 * 根目录：一些画图程序
 * IK：逆运动学程序
